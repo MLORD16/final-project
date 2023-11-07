@@ -45,15 +45,11 @@ font-family: 'Rubik Moonrocks', sans-serif;
 
 
 }
-.p1{
+.first {
     margin-top: 50px;
     width: 30%;
     font-size: 50px;
     font-family: 'Bebas Neue', sans-serif;
-    
-
-}
-.first {
     display: flex;
     flex-direction: row;
     gap: 100px;
@@ -62,12 +58,6 @@ font-family: 'Rubik Moonrocks', sans-serif;
 .first :hover{
     color:rgb(183, 165, 110) ;
 }  
-.p2{   margin-top: 50px;
-    width: 30%;
-    font-size: 50px;
-    font-family: 'Bebas Neue', sans-serif;
-
-}
 .p3{margin-top: 50px;
     width: 30%;
     font-size: 50px;
@@ -84,4 +74,39 @@ font-family: 'Rubik Moonrocks', sans-serif;
 
 .img1:hover {
     opacity: 1;
+}
+.second{
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+    margin-top: 50px;
+    width: 30%;
+    font-size: 50px;
+    font-family: 'Bebas Neue', sans-serif;
+
+}
+.second :hover{
+    color:rgb(183, 165, 110) ;
+}
+.third :hover{
+    color:rgb(183, 165, 110) ;
+}
+.img2{
+    height: 300px;
+    width: 300px; 
+    margin-top: 5%;
+    margin-left: 1000px;
+    opacity: 0.3;
+}
+.img2 :hover{
+    opacity: 1;
+}
+.third{
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+    margin-top: 50px;
+    width: 30%;
+    font-size: 50px;
+    font-family: 'Bebas Neue', sans-serif;
 }
