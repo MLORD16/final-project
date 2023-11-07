@@ -51,19 +51,17 @@ font-family: 'Rubik Moonrocks', sans-serif;
     font-size: 50px;
     font-family: 'Bebas Neue', sans-serif;
     display: flex;
+    align-items: center;
     flex-direction: row;
     gap: 100px;
+    display: inline-block;
+   
 }
 
 .first :hover{
     color:rgb(183, 165, 110) ;
 }  
-.p3{margin-top: 50px;
-    width: 30%;
-    font-size: 50px;
-    font-family: 'Bebas Neue', sans-serif;
-    
-}
+
 .img1{
     height: 300px;
     width: 300px; 
@@ -83,7 +81,6 @@ font-family: 'Rubik Moonrocks', sans-serif;
     width: 30%;
     font-size: 50px;
     font-family: 'Bebas Neue', sans-serif;
-
 }
 .second :hover{
     color:rgb(183, 165, 110) ;
